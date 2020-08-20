@@ -19,8 +19,8 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    self.title = @"首页";
     
-    self.title = @"首页";    NSLog(@"2222");
     [self.navigationController setNavigationBarWithColor:[UIColor magentaColor]];
     [[UINavigationBar appearance] setTranslucent:YES];
     
