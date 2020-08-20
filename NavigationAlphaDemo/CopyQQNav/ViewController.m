@@ -40,7 +40,8 @@
     [self.view addSubview:button2];
     
     NSLog(@"111111");
-    
+    NSLog(@"33333");
+    NSLog(@"44444");
 }
 
 
