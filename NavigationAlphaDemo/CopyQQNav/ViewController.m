@@ -39,7 +39,7 @@
     [button2 addTarget:self action:@selector(buttonClick:) forControlEvents:UIControlEventTouchUpInside];
     [self.view addSubview:button2];
     
-    NSLog(@"111111");
+    
     
 }
 
