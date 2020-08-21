@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1860D8CF24EF565C00629A0A /* NewObject.m in Sources */ = {isa = PBXBuildFile; fileRef = 1860D8CE24EF565C00629A0A /* NewObject.m */; };
 		D574A7591D137C1C00FD6A72 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = D574A7581D137C1C00FD6A72 /* main.m */; };
 		D574A75C1D137C1C00FD6A72 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = D574A75B1D137C1C00FD6A72 /* AppDelegate.m */; };
 		D574A75F1D137C1C00FD6A72 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D574A75E1D137C1C00FD6A72 /* ViewController.m */; };
@@ -44,6 +45,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1860D8CD24EF565C00629A0A /* NewObject.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = NewObject.h; sourceTree = "<group>"; };
+		1860D8CE24EF565C00629A0A /* NewObject.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NewObject.m; sourceTree = "<group>"; };
 		D574A7541D137C1C00FD6A72 /* NavigationAlphaDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NavigationAlphaDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D574A7581D137C1C00FD6A72 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		D574A75A1D137C1C00FD6A72 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -139,6 +142,8 @@
 				D582AC631D1A252A0005B062 /* FourthController.m */,
 				D582AC5F1D191A6D0005B062 /* QQnavViewController.h */,
 				D582AC601D191A6D0005B062 /* QQnavViewController.m */,
+				1860D8CD24EF565C00629A0A /* NewObject.h */,
+				1860D8CE24EF565C00629A0A /* NewObject.m */,
 				D574A7601D137C1C00FD6A72 /* Main.storyboard */,
 				D574A7631D137C1C00FD6A72 /* Assets.xcassets */,
 				D574A7651D137C1C00FD6A72 /* LaunchScreen.storyboard */,
@@ -272,6 +277,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -322,6 +328,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D574A75F1D137C1C00FD6A72 /* ViewController.m in Sources */,
+				1860D8CF24EF565C00629A0A /* NewObject.m in Sources */,
 				D582AC541D17D8F80005B062 /* ThirdController.m in Sources */,
 				D582AC571D17DB080005B062 /* UINavigationController+Rotation.m in Sources */,
 				D582AC611D191A6D0005B062 /* QQnavViewController.m in Sources */,
