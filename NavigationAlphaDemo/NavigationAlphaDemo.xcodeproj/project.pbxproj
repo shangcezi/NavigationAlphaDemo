@@ -7,11 +7,14 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+<<<<<<< .merge_file_GVlMMg
 <<<<<<< HEAD
 		1860D8CC24EF554600629A0A /* OldObject.m in Sources */ = {isa = PBXBuildFile; fileRef = 1860D8CB24EF554600629A0A /* OldObject.m */; };
 =======
 		1860D8CF24EF565C00629A0A /* NewObject.m in Sources */ = {isa = PBXBuildFile; fileRef = 1860D8CE24EF565C00629A0A /* NewObject.m */; };
 >>>>>>> 2211af325ef5d472cc7c3a59100de45c230bbe95
+=======
+>>>>>>> .merge_file_EbvoZO
 		D574A7591D137C1C00FD6A72 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = D574A7581D137C1C00FD6A72 /* main.m */; };
 		D574A75C1D137C1C00FD6A72 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = D574A75B1D137C1C00FD6A72 /* AppDelegate.m */; };
 		D574A75F1D137C1C00FD6A72 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D574A75E1D137C1C00FD6A72 /* ViewController.m */; };
@@ -49,6 +52,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+<<<<<<< .merge_file_GVlMMg
 <<<<<<< HEAD
 		1860D8CA24EF554600629A0A /* OldObject.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = OldObject.h; sourceTree = "<group>"; };
 		1860D8CB24EF554600629A0A /* OldObject.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = OldObject.m; sourceTree = "<group>"; };
@@ -56,6 +60,10 @@
 		1860D8CD24EF565C00629A0A /* NewObject.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = NewObject.h; sourceTree = "<group>"; };
 		1860D8CE24EF565C00629A0A /* NewObject.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NewObject.m; sourceTree = "<group>"; };
 >>>>>>> 2211af325ef5d472cc7c3a59100de45c230bbe95
+=======
+		1860D8CD24EF565C00629A0A /* NewObject.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = NewObject.h; sourceTree = "<group>"; };
+		1860D8CE24EF565C00629A0A /* NewObject.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NewObject.m; sourceTree = "<group>"; };
+>>>>>>> .merge_file_EbvoZO
 		D574A7541D137C1C00FD6A72 /* NavigationAlphaDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NavigationAlphaDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D574A7581D137C1C00FD6A72 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		D574A75A1D137C1C00FD6A72 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -151,6 +159,7 @@
 				D582AC631D1A252A0005B062 /* FourthController.m */,
 				D582AC5F1D191A6D0005B062 /* QQnavViewController.h */,
 				D582AC601D191A6D0005B062 /* QQnavViewController.m */,
+<<<<<<< .merge_file_GVlMMg
 <<<<<<< HEAD
 				1860D8CA24EF554600629A0A /* OldObject.h */,
 				1860D8CB24EF554600629A0A /* OldObject.m */,
@@ -158,6 +167,10 @@
 				1860D8CD24EF565C00629A0A /* NewObject.h */,
 				1860D8CE24EF565C00629A0A /* NewObject.m */,
 >>>>>>> 2211af325ef5d472cc7c3a59100de45c230bbe95
+=======
+				1860D8CD24EF565C00629A0A /* NewObject.h */,
+				1860D8CE24EF565C00629A0A /* NewObject.m */,
+>>>>>>> .merge_file_EbvoZO
 				D574A7601D137C1C00FD6A72 /* Main.storyboard */,
 				D574A7631D137C1C00FD6A72 /* Assets.xcassets */,
 				D574A7651D137C1C00FD6A72 /* LaunchScreen.storyboard */,
@@ -348,7 +361,6 @@
 				D582AC611D191A6D0005B062 /* QQnavViewController.m in Sources */,
 				D574A78C1D13870400FD6A72 /* SecondController.m in Sources */,
 				D582AC5E1D190F8C0005B062 /* AIMultiDelegate.m in Sources */,
-				1860D8CC24EF554600629A0A /* OldObject.m in Sources */,
 				D574A75C1D137C1C00FD6A72 /* AppDelegate.m in Sources */,
 				D582AC641D1A252A0005B062 /* FourthController.m in Sources */,
 				D574A7901D13C2E700FD6A72 /* SlideSwitchView.m in Sources */,
